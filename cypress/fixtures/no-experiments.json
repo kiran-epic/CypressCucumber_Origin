@@ -1,0 +1,10 @@
+{
+  "@context": "\/contexts\/Experiment",
+  "@id": "\/experiments",
+  "@type": "hydra:Collection",
+  "hydra:member": [
+  ],
+  "hydra:totalItems": 0,
+  "hydra:search": {
+  }
+}

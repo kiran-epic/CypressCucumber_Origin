@@ -1,0 +1,21 @@
+{
+  "name": "cypress_cucumber_exceptionwithawait",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "",
+  "scripts": {
+    "cypress-report": "node cypress/reports/cucumber-html-report.js"
+  },
+  "private": true,
+  "author": "Demo",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "cypress": "^10.9.0",
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.2",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "multiple-cucumber-html-reporter": "^1.21.4",
+    "typescript": "4.7.4"
+  }
+}

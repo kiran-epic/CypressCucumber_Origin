@@ -1,0 +1,8 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "target": "es5",
+        "types": ["node", "cypress"],
+        "lib": ["es2018"]
+    }
+}
